@@ -1,3 +1,7 @@
+# JBH-2.0-React
+
+Frontend version of JBH.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Update React
